@@ -1,0 +1,12 @@
+body{
+    display:grid;
+    align-items: center;
+    justify-content: center;
+    background-color: blueviolet;
+   
+}
+.my{
+    border: 2px solid black;
+    border-radius: 5px;
+   padding: 15px;
+}
